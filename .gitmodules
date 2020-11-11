@@ -3,7 +3,7 @@
 	url = https://github.com/uomz/saleor-backend
 [submodule "saleor-storefront"]
 	path = saleor-storefront
-	url = https://github.com/uomz/saleor-frontend
+	url = https://github.com/uomz/saleor-storefront
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
 	url = https://github.com/uomz/saleor-dashboard
