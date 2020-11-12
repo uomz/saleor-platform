@@ -1,5 +1,5 @@
 [submodule "saleor"]
-	path = saleor
+	path = saleor-backend
 	url = git@github.com:uomz/saleor-backend.git
 [submodule "saleor-storefront"]
 	path = saleor-storefront
